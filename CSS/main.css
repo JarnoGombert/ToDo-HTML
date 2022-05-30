@@ -12,8 +12,8 @@
     --check-color: hsl(233, 14%, 35%);
     --shadow-color: hsla(0, 0%, 7%, 0.877);
     --plus-color: white;
-    --bg-img-mobile: url(./../images/bg-mobile-dark.jpg);
-    --bg-img-desktop: url(./../images/bg-desktop-dark.jpg);
+    --bg-img-mobile: url(images/bg-mobile-dark.jpg);
+    --bg-img-desktop: url(images/bg-desktop-dark.jpg);
   }
   
   :root[data-theme="theme-light"] {
@@ -26,8 +26,8 @@
     --check-color: hsl(233, 11%, 84%);
     --shadow-color: hsla(240, 5%, 85%, 0.603);
     --plus-color: black;
-    --bg-img-mobile: url(./../images/bg-mobile-light.jpg);
-    --bg-img-desktop: url(./../images/bg-desktop-light.jpg);
+    --bg-img-mobile: url(images/bg-mobile-light.jpg);
+    --bg-img-desktop: url(images/bg-desktop-light.jpg);
   }
   
   * {
